@@ -46,7 +46,7 @@ A FastAPI-based REST API for interacting with Google Gemini models.
 5. **Run the API:**
 
    ```sh
-   uvicorn GeminiAPIRest:app --reload
+   fastapi dev GeminiAPIRest.py
    ```
 
    The API will be available at [http://127.0.0.1:8000](http://127.0.0.1:8000).

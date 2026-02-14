@@ -71,9 +71,6 @@ coverage.xml
 # Pyre type checker
 .pyre/
 
-# PDF and other docs
-*.pdf
-
 # OS files
 .DS_Store
 Thumbs.db

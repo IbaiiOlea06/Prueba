@@ -1,4 +1,5 @@
 fastapi
+fastapi[standard]
 pydantic
 python-dotenv
 google-generativeai
